@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnshydv24&label=Profile%20views&color=0e75b6&style=flat" alt="vnshydv24" /> </p>
 
-- 🔭 I’m currently working on **Chatgptclone**
 
 - 🌱 I’m currently learning **React**
 
